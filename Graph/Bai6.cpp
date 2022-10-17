@@ -1,3 +1,5 @@
+#Nguyễn Thị Thu Huyền- ANHTTT56
+
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
