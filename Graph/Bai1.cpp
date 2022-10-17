@@ -1,5 +1,6 @@
+#Nguyễn Thị Thu Huyền _ ANHTTT56
+
 #include <stdio.h>
-#include <math.h>
 #include <string.h>
 #include <malloc.h>
 #include <stdlib.h>
@@ -72,8 +73,6 @@ void nhap(char* file_name1, char* file_name2)
 
 int main ()
 {
-	
-	
 	nhap(m1,m2);
 	return 0;
 }
